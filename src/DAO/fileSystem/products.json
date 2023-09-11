@@ -1,0 +1,112 @@
+[
+    {
+      "id": "1",
+      "title": "Capilar",
+      "description": "Desenredante termoprotector",
+      "code": "abc123",
+      "price": 200,
+      "stock": 25,
+      "category": "Capilar",
+      "thumbnail": "Sin imagen",
+      "status": true
+    },
+    {
+      "id": 2,
+      "title": "Capilar",
+      "description": "Tónico revitalizante",
+      "code": "abc124",
+      "price": 400,
+      "stock": 44,
+      "category": "Capilar",
+      "thumbnail": "Sin imagen",
+      "status": true
+    },
+    {
+      "id": 3,
+      "title": "Maquillaje",
+      "description": "paleta de sombras dreamy",
+      "code": "abc125",
+      "price": 1200,
+      "stock": 3,
+      "category": "Maquillaje",
+      "thumbnail": "Sin imagen",
+      "status": true
+    },
+    {
+      "id": 4,
+      "title": "Maquillaje",
+      "description": "Paleta de sombras perfect mix",
+      "code": "abc126",
+      "price": 400,
+      "stock": 55,
+      "category": "Maquillaje",
+      "thumbnail": "Sin imagen",
+      "status": true
+    },
+    {
+      "id": 5,
+      "title": "Cuidado para la piel",
+      "description": "Suero facial vitamina C",
+      "code": "abc127",
+      "price": 400,
+      "stock": 23,
+      "category": "Cuidado para la piel",
+      "thumbnail": "Sin imagen",  
+      "status": true
+    },
+    {
+      "id": 6,
+      "title": "Cuidado para la piel",
+      "description": "Tonico facial",
+      "code": "abc128",
+      "price": 400,
+      "stock": 9,
+      "category": "Cuidado para la piel",
+      "thumbnail": "Sin imagen", 
+      "status": true
+    },
+    {
+      "id": 7,
+      "title": "Varios",
+      "description": "Kit de brochas profesionales",
+      "code": "abc129",
+      "price": 400,
+      "stock": 34,
+      "category": "Varios",
+      "thumbnail": "Sin imagen",
+      "status": true
+    },
+    {
+      "id": 8,
+      "title": "Varios",
+      "description": "Sombras para entradas",
+      "code": "abc130",
+      "price": 400,
+      "stock": 12,
+      "category": "Varios",
+      "thumbnail": "Sin imagen",
+      "status": true
+    },
+    {
+      "id": 9,
+      "title": "Corporal",
+      "description": "Exfoliante corporal",
+      "code": "abc131",
+      "price": 400,
+      "stock": 7,
+      "category": "Corporal",
+      "thumbnail": "Sin imagen",
+      "status": true
+    },
+    {
+      "id": 10,
+      "title": "Corporal",
+      "description": "Protector solar",
+      "code": "abc132",
+      "price": 400,
+      "stock": 5,
+      "category": "Corporal",
+      "thumbnail": "Sin imagen",
+      "status": true
+    }
+]
